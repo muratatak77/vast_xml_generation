@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">   
+    <Ad id="192660">
+        <InLine>
+            <AdSystem version="4.11.1-17">LiveRail</AdSystem>
+            <AdTitle><![CDATA[GlizaAbonelik1 30sn]]></AdTitle>
+            <Description><![CDATA[]]></Description>
+                         <Error><![CDATA[http://t4.liverail.com/?metric=error&erc=[ERRORCODE]&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=&redirect=]]></Error>
+            <Impression id="LR"><![CDATA[http://t4.liverail.com/?metric=impression&cofl=0&flid=0&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=489&y=489&xy=17a5&z2=0.00500]]></Impression>
+            <Impression id="QC"><![CDATA[http://pixel.quantserve.com/pixel/p-d05JkuPGiy-jY.gif?r=3215]]></Impression>
+            <Impression id="CS"><![CDATA[http://b.scorecardresearch.com/p?c1=1&c2=9864668&c3=63108&c4=&c5=09]]></Impression>
+            <Creatives>
+                <Creative sequence="1" id="260193">
+                    <Linear>
+                        <Duration>00:00:05</Duration>
+                        
+                        <TrackingEvents>
+                            <Tracking event="firstQuartile"><![CDATA[http://t4.liverail.com/?metric=view25&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://t4.liverail.com/?metric=view50&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://t4.liverail.com/?metric=view75&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://t4.liverail.com/?metric=view100&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://t4.liverail.com/?metric=mute&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://t4.liverail.com/?metric=unmute&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="pause"><![CDATA[http://t4.liverail.com/?metric=pause&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="resume"><![CDATA[http://t4.liverail.com/?metric=resume&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="fullscreen"><![CDATA[http://t4.liverail.com/?metric=fullscreen&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="close"><![CDATA[http://t4.liverail.com/?metric=close&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                            <Tracking event="acceptInvitation"><![CDATA[http://t4.liverail.com/?metric=accept&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=]]></Tracking>
+                        </TrackingEvents>   
+                        
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[http://t4.liverail.com/?metric=clickthru&pos=0&coid=158982&pid=63108&nid=62985&oid=192660&olid=58228247&cid=260193&tpcid=&vid=&amid=&cc=medibali_test&pp=&vi=0&vv=&sg=&tsg=&pmu=0&pau=0&psz=0&ctx=&tctx=&coty=7&adt=0&did=&buid=&scen=&mca=&mma=&mct=0&url=&trid=54dca294c53080.95264006&bidf=0.50000&bids=0.00000&bidt=1&bidh=0&bidlaf=0&sdk=0&cb=3215.85.105.174.131.0&ver=1&w=&wy=&x=&y=&xy=&redirect=http%3A%2F%2Fwww.gliza.com]]></ClickThrough>
+        
+                        </VideoClicks>
+                        
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="439" width="854" height="480" type="video/mp4"><![CDATA[http://pd.adjec.tv/medibali/110/kuretv_abone_480k.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST><!-- 43 TR_ISTANBUL_0_ISTANBUL 34000 -->
