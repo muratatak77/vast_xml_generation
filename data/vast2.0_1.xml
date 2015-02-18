@@ -34,7 +34,7 @@
                         </VideoClicks>
                         
                         <MediaFiles>
-                            <MediaFile delivery="progressive" bitrate="700" width="640" height="360" type="m3u8"><![CDATA[http://vodgliza-vh.akamaihd.net/i/m3u8/syoss_glai_,360,k.mp4.csmil/index_0_av.m3u8]]></MediaFile>
+                            <MediaFile delivery="progressive" bitrate="439" width="854" height="480" type="video/mp4"><![CDATA[ http://pd.adjec.tv/medibali/108/orkide_misiryag_11sn_576k.mp4]]></MediaFile>
                         </MediaFiles>
                     </Linear>
                 </Creative>

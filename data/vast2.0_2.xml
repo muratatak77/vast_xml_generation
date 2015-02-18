@@ -34,7 +34,11 @@
                         </VideoClicks>
                         
                         <MediaFiles>
+                            
                             <MediaFile delivery="progressive" bitrate="439" width="854" height="480" type="video/mp4"><![CDATA[http://pd.adjec.tv/medibali/110/kuretv_abone_480k.mp4]]></MediaFile>
+
+                            <MediaFile delivery="progressive" bitrate="439" width="854" height="480" type="video/mp4"><![CDATA[http://pd.adjec.tv/medibali/110/kuretv_abone_480k.mp4]]></MediaFile>
+
                         </MediaFiles>
                     </Linear>
                 </Creative>
